@@ -13,4 +13,5 @@
 ## 장바구니 추가
 - bucket.md
 
-
+## 푸터 추가
+- footer.md
